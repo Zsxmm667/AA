@@ -6706,3 +6706,8 @@ EpicBoss (SystemZee's Workshop) - Addon ffbe3dd1-52d5-4a94-ad6f-877bad519cbb
 Buddies (Unlinked) - Addon 03e9849f-75b7-4267-87e0-8495272262e2
 OneBlock (Misfits) - DLC 230c1487-fc08-4441-8eb7-29b059dbe43a
 Vitals Expansion (Cubed Creations) - DLC 29fb2949-e766-4503-af05-0706d861abc7
+Weapons (Sapphire Studios) - Addon 6b992c14-d45a-4ce5-976f-34539ab1fb72
+Furniture Add-On (Mob Pie) - Addon 88dbb84b-2468-401c-97e2-d0f39923368f
+Blocky Mechs Add-On (Netherpixel) - Addon faadf1a8-8fc7-4050-96cb-6c50caccf23a
+Mining & Building Gadgets (FTB) - Addon 23479c50-47ff-4519-926c-36803d540f2b
+Doors Add-On  (4KS Studios) - Addon 5f9a4848-bd94-405c-b4b3-5ff68b6e25e3
