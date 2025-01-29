@@ -6701,4 +6701,8 @@ Trader Expansion Add-On ( Logdotzip ) - Addon 09ce8a29-3b2a-41e2-b4f6-8eccb857cc
 Sonic Add-On ( Gamemode One ) - Addon f3e0a4be-8858-44d3-9ae8-91643db1b3f6
 Super Cars ( Cubed Creations ) - DLC 6bc377d6-5073-4aba-90a1-c4b7533a712c
 Hello Kitty and Friends ( Minecraft ) - DLC a9caa9a3-20a8-4a32-b29f-bede435d95cb
-MOB CARS Add-On ( ChewMingo ) - DLC 42c58dc9-c3d6-4b90-b411-e4a4f38f81dc
+MOB CARS Add-On ( ChewMingo ) - Addon 42c58dc9-c3d6-4b90-b411-e4a4f38f81dc
+EpicBoss (SystemZee's Workshop) - Addon ffbe3dd1-52d5-4a94-ad6f-877bad519cbb
+Buddies (Unlinked) - Addon 03e9849f-75b7-4267-87e0-8495272262e2
+OneBlock (Misfits) - DLC 230c1487-fc08-4441-8eb7-29b059dbe43a
+Vitals Expansion (Cubed Creations) - DLC 29fb2949-e766-4503-af05-0706d861abc7
