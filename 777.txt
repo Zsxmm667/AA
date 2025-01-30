@@ -5428,7 +5428,7 @@ Furniture Mansion! ( KA Studios ) - DLC 3bdccb17-c975-4772-a22e-0d991c6712e7
 Hacker Villagers ( Diamond Studios ) - DLC 7879e641-cb6d-4f19-a943-ce73af1bcd94
 Mobs and Blocks ( Lifeboat ) - DLC c824c663-dfcb-42d1-b1d5-b52a3889e151
 Lost in Space ( RareLoot ) - DLC 9ba6cf83-e941-4bf7-8ac6-919e256dd7ff
-Unicorn Kingdom ( Pixel Smile Studios ) - DLC 8f5bd5ee-dc9f-4ea2-9040-8f761e1569bf
+Unicorn Kingdom 2.0 ( Pixel Smile Studios ) - DLC 8f5bd5ee-dc9f-4ea2-9040-8f761e1569bf
 Don't Leave the Circle! ( Razzleberries ) - DLC 5d864ced-ec7e-4b69-93b0-b837a49f28f6
 Ultimate Boomerangs ( 4KS Studios ) - DLC e32d3c78-a427-4c2c-baa4-290b51b48f3e
 DRAGONS! Add-On ( Tsunami Studios ) - Addon e0b5320f-aece-4de8-80e5-139ebc1089b1
@@ -5440,7 +5440,7 @@ Secret Bed Base ( Dodo Studios ) - DLC 1da99604-003e-468c-8121-879a5ed4e38e
 Horse Ranch ( Cleverlike ) - Addon b5a738c2-55a8-4ba4-aa39-55448cf0fc72
 MORPH [ADD-ON] ( Blocky ) - Addon a64ed49a-0734-432a-9344-68cca545ef60
 Shipwrecked: At Neverland ( DeliSoft Studios ) - DLC 9ce4ec85-97e2-426d-99b7-7b63da20f24d
-Super Cars Add-On ( Octovon ) - Addon da7a290e-1555-434e-98d8-29b305d7e365
+Super Cars 2.0 Add-On ( Octovon ) - Addon da7a290e-1555-434e-98d8-29b305d7e365
 Hydra Bosses Add-On ( Spectral Studios ) - Addon 1eba3c61-c89a-48c3-a6e2-5688b5062cf9
 Fairy Tales 2.0 ( Chillcraft ) - Addon 6fbe33f8-2f7e-4917-b445-f30027d6191f
 Dinosaurs Add-On 2.1 ( Honeyfrost ) - Addon bbc3adf7-b481-47f2-9a3d-749ae5421508
@@ -5745,7 +5745,7 @@ Cute Home Cherry Mansion ( CrackedCubes ) - DLC c875676a-b4ab-4f03-adf7-f0d3c08e
 Bank Rush ( RareLoot ) - DLC 86affcbb-0a7d-41df-8bdb-65b8051efcd0
 Dr. Auge Adventure ( Heropixel Games ) - DLC 725ba01e-1dde-4552-9f89-aefa886ed0b8
 Fantastic Fairgrounds ( Minecraft ) - DLC d24d84a8-cf87-4919-a478-46b2d41a5126
-Ocean Expansion Add-On 1.0 ( Hourglass Studios ) - Addon 391a647d-58fe-4039-b0b0-204b976651a4
+Ocean Expansion Add-On 2.0 ( Hourglass Studios ) - Addon 391a647d-58fe-4039-b0b0-204b976651a4
 100 Days Be A Mob ( Cubed Creations ) - DLC 7e9310a9-ead1-4ab8-b361-cfbf5c3a361d
 Super Tools ( Street Studios ) - DLC be9744b7-ff16-430f-acc9-ded60aedb20e
 Cherry Blossom Suburban Home ( CrackedCubes ) - DLC cc4d7cc7-8f9f-418e-8272-05e5ff561a62
@@ -6553,9 +6553,10 @@ Animations+ Add-On ( MelonBP ) - Addon 69e2be55-5d2f-4b9d-aecb-41cc22ff0854
 VEHICLES Add-On ( Dodo Studios ) - Addon 9d0b0bfb-4500-425a-93ca-ceca38a909f0
 Moving Dropper ( Diamond Studios ) - DLC d4eeb9e4-9f62-4794-9c28-1452b869ce94
 Sprite ( Minecraft ) - DLC 5c88dbf6-d1e4-48d3-9dd1-43fe21955c44
-PLENTY OF BLOCKS Add-on ( Owls Cubed ) - Addon e416fae4-7dfa-495d-ade4-63150a058bf3
+Plenty of Blocks Add-on 1.2 ( Owls Cubed ) - Addon e416fae4-7dfa-495d-ade4-63150a058bf3
 Inventory Manager (Lite) ( Mythicus ) - Addon 81938b17-4ab1-480d-adb3-5a6c9d486eb6
 Build Your Own Castle ( Imagiverse ) - DLC f722144b-2bb3-4b4f-be8b-cb603903a296
+Find the Button II ( Razzleberries ) - DLC d461ddae-26d5-41e1-b881-76137e792610
 Cruise Ship Roleplay ( Everbloom Games ) - DLC 0e088af9-8875-4402-ac47-c0248a077808
 Space Station 0077 ( Shaliquinn's Schematics ) - DLC b7ed6fff-168d-4efa-a8b7-806b5714ca97
 Isekai Fantasy ( Team Visionary ) - DLC a417aad2-ca5b-4186-bbe7-79abba029ffa
@@ -6570,6 +6571,7 @@ Aztec Skyblock ( Vertexcubed ) - DLC 8ae8a521-b1fa-4c15-93a0-2c6329b1dfa6
 Advanced: Desert Dungeon ( Fall Studios ) - DLC cc8a43dc-7b28-4c62-8657-0156982ff8f3
 Sky Rails ( Lifeboat ) - DLC ddedce90-668d-4ae3-acd1-d9ad06f68e38
 Alien Secret Base ( BLOCKLAB Studios ) - DLC 4d70d4f4-d65a-4eaa-9ee4-2908e43300ff
+Skyblock Vanilla ( Pickaxe Studios ) - DLC 8f6ebcfe-d491-4c55-a5f5-808110305a9f
 Hacker Mansion ( Fall Studios ) - DLC 844af5d1-7c17-4849-aa5a-3da89b617a34
 Rainbow Ore Roleplay! ( Pickaxe Studios ) - DLC f2421268-a9ec-4ab0-b2d5-6990458dda45
 Nuclear Mob Arena Battle ( Logdotzip ) - DLC a27c533a-ebea-4ea5-9aa0-eee9ae477d10
@@ -6663,6 +6665,7 @@ ZOMBIES REALISM Add-On ( OG Games ) - Addon ebee8530-0e51-4434-befe-3a671104b8e3
 Demon Weapons ( Kubo Studios ) - DLC e031e89c-8759-4b87-bfd5-53c006204b60
 Phantom Frames Add-On ( The Hive ) - Addon c8e87848-aae0-4b66-bc0d-6c70294a93e0
 Avatar: Rites of Passage ( Gamemode One ) - DLC c65cc4c5-8a2f-46f3-bdc6-5bc7c4f7d54f
+Roleplay Pack ( Dodo Studios ) - DLC aa48027e-0efd-49f9-a592-42b55ca9aaeb
 Furniture Life Add-On ( PixelHeads ) - Addon e29104d2-1d25-4ece-8d8b-9507ca78c32f
 Modern Furniture 1.0 ( Cyclone ) - Addon 6fd45106-1819-4c90-b2f6-7a5c9684b142
 CARS Add-On ( Nitric Concepts ) - Addon ce6ed56f-f0d3-4a30-87f7-dfff335d3d4a
@@ -6675,6 +6678,7 @@ Lava Chicken Add-On ( Minecraft ) - Addon b8294b31-2d62-4823-a13e-52d5ea6e6ef4
 FantasyCraft 1.1 ( CompyCraft ) - Addon b23e8b41-115b-42e5-9acc-fd669125e9d1
 Player Evolved Add-On ( Octovon ) - Addon e96c5053-8465-49cb-8979-a2e8731ad14d
 MACHINES ( Podcrash ) - Addon 8680ec0f-9b1b-4027-9007-8d60a409a0fe
+Mining & Building Gadgets ( FTB ) - Addon 23479c50-47ff-4519-926c-36803d540f2b
 More Ores Tools Armor Add-On ( Wonder ) - Addon 5eaa99d7-766f-4f81-8aed-3d45b7a72b6d
 Economy Add-On ( Endorah ) - Addon 821cecaf-25ef-4b13-9773-52389fd9c4b9
 Gifts Add-On ( Tetrascape ) - Addon 1d9d5c9d-ed46-4f87-a0a6-b41d6992e7f3
@@ -6692,6 +6696,7 @@ Ninjas Add-On ( Diveblocks ) - Addon 72226960-e3e8-4da4-bceb-b4432a975bbe
 Mob Menagerie Add-On ( StacyPlays ) - Addon cc9ef452-fdb3-424b-b2ba-247c9bce7314
 PARASITE OUTBREAK Add-On 1.0.2 ( Mythicus ) - Addon f5bdb521-807e-4280-9335-0cbded4a7276
 Wizard Craft Add-On ( BLOCKLAB Studios ) - Addon 4c68c76e-f0d4-41ef-8e4e-96f10facc972
+Galaxy Craft ( Cubed Creations ) - DLC 611b6a1f-3901-4a66-bac1-334c3e75b1c8
 PORTAL [ADD-ON] ( Blocky ) - Addon bc103678-385d-484e-9337-25cfea9f1594
 Mob Swords ( Bunny Studios ) - Addon 8fd3e689-269f-47ae-8c6b-95c4afb2a97e
 Can You Survive? ( Starfish Studios ) - Addon d14d258e-12de-41c7-9c78-fbce1de9b105
@@ -6699,15 +6704,16 @@ Craft Redstone Add-On ( Cypress Games ) - Addon 51591b90-b2b8-424c-8ec6-b8279463
 Pet Blocks ( A Foxy Toast ) - Addon 297b5435-afef-40f0-a0b2-7ac26eb6a57d
 Trader Expansion Add-On ( Logdotzip ) - Addon 09ce8a29-3b2a-41e2-b4f6-8eccb857cc7b
 Sonic Add-On ( Gamemode One ) - Addon f3e0a4be-8858-44d3-9ae8-91643db1b3f6
-Super Cars ( Cubed Creations ) - DLC 6bc377d6-5073-4aba-90a1-c4b7533a712c
-Hello Kitty and Friends ( Minecraft ) - DLC a9caa9a3-20a8-4a32-b29f-bede435d95cb
 MOB CARS Add-On ( ChewMingo ) - Addon 42c58dc9-c3d6-4b90-b411-e4a4f38f81dc
-EpicBoss (SystemZee's Workshop) - Addon ffbe3dd1-52d5-4a94-ad6f-877bad519cbb
-Buddies (Unlinked) - Addon 03e9849f-75b7-4267-87e0-8495272262e2
-OneBlock (Misfits) - DLC 230c1487-fc08-4441-8eb7-29b059dbe43a
-Vitals Expansion (Cubed Creations) - DLC 29fb2949-e766-4503-af05-0706d861abc7
-Weapons (Sapphire Studios) - Addon 6b992c14-d45a-4ce5-976f-34539ab1fb72
-Furniture Add-On (Mob Pie) - Addon 88dbb84b-2468-401c-97e2-d0f39923368f
-Blocky Mechs Add-On (Netherpixel) - Addon faadf1a8-8fc7-4050-96cb-6c50caccf23a
-Mining & Building Gadgets (FTB) - Addon 23479c50-47ff-4519-926c-36803d540f2b
-Doors Add-On  (4KS Studios) - Addon 5f9a4848-bd94-405c-b4b3-5ff68b6e25e3
+Super Cars ( Cubed Creations ) - DLC 6bc377d6-5073-4aba-90a1-c4b7533a712c
+Weapons ( Sapphire Studios ) - Addon 6b992c14-d45a-4ce5-976f-34539ab1fb72
+OneBlock ( Misfits ) - DLC 230c1487-fc08-4441-8eb7-29b059dbe43a
+EpicBoss ( SystemZee's Workshop ) - Addon ffbe3dd1-52d5-4a94-ad6f-877bad519cbb
+Hello Kitty and Friends ( Razzleberries ) - DLC a9caa9a3-20a8-4a32-b29f-bede435d95cb
+Doors Add-On ( 4KS Studios ) - Addon 5f9a4848-bd94-405c-b4b3-5ff68b6e25e3
+Enchantments Plus ( StarkTMA ) - Addon 7c27b1c3-40e4-4b70-87f6-ff15ab32daa1
+Blocky Mechs Add-On ( Netherpixel ) - Addon faadf1a8-8fc7-4050-96cb-6c50caccf23a
+Furniture Add-On ( Mob Pie ) - Addon 88dbb84b-2468-401c-97e2-d0f39923368f
+WUKONGUPROAR IN HEAVEN ( Next Studio ) - DLC 18732792-da7b-479c-998e-e3e9fd9123d0
+Buddies ( Unlinked ) - Addon 03e9849f-75b7-4267-87e0-8495272262e2
+Vitals Expansion ( Cubed Creations ) - DLC 29fb2949-e766-4503-af05-0706d861abc7
