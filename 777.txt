@@ -6717,3 +6717,20 @@ Furniture Add-On ( Mob Pie ) - Addon 88dbb84b-2468-401c-97e2-d0f39923368f
 WUKONGUPROAR IN HEAVEN ( Next Studio ) - DLC 18732792-da7b-479c-998e-e3e9fd9123d0
 Buddies ( Unlinked ) - Addon 03e9849f-75b7-4267-87e0-8495272262e2
 Vitals Expansion ( Cubed Creations ) - DLC 29fb2949-e766-4503-af05-0706d861abc7
+Weapons + Tools Add-On ( Mythicus ) - Addon 183d354e-6958-47f6-86eb-1180eca54499
+HUNTER VISION ( Aurrora ) - Addon b40cfb6a-f847-44a7-8a20-d3655d85156e
+Camping Add-On ( Dig Down Studios ) - Addon 02118959-a81c-49ec-b9e0-10c3e533334a
+Secure Chests Add-On ( The Pocalypse Studios ) - Addon 4237e894-8343-426e-9b7c-5e84d124fe39
+Elevators and Conveyors  ( EduElfie ) - Addon 3d2c8d9d-a3ef-4412-af08-ff02d1c88872
+Demon Weapons   (Tristan Productions) - Addon 0f9d7455-2982-4dbf-8d9b-cd1b25f79fd2
+Sharks Add-On   ( CodeStudios ) - Addon 2c536dae-5cf8-4cf7-b142-ffe23ab0583a
+XXL TNT Add-On  ( DogHouse ) - Addon 261d03cd-34ca-4a21-97a3-5ee664f5ff65
+Enchanted Encounters  ( Unique Arts ) - Addon e1a64911-be28-431a-b108-ca8689b06b06
+Overpowered Weapons Add-On ( ManaLabs Inc ) - Addon 7fd82eb9-4d1c-44a1-9f55-783c591d40f9
+Portality ( Sapphire Studios ) - Addon 28f5342a-391e-4b17-aee9-758fef80c000
+Furniture 1200+  ( Chillcraft ) - Addon ed10a7e4-d974-499b-9719-71b080497e29
+Secret Doors Add-On  ( 100Media ) - Addon 800cfed0-34f5-4d33-82f7-9f91e27cce33
+Emojis ( Tomhmagic Creations ) - Addon 96a8e165-895d-4e5c-8a31-37e54694eba5
+Colour Jetpacks  (  Blockworks  ) - Addon f2b99a9d-5c72-44ab-948f-12c325c670fa
+Combat Utilities ( Glowfischdesigns ) - Addon 576fbd2f-97c5-4712-98c6-d2fccfc76f3d
+Security Expansion Add-On ( Teplight ) - Addon e51ed7e6-1313-4f27-8e8b-a30d116e2a5e
